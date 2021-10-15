@@ -23,5 +23,8 @@
   "files": [
     "cookies.js"
   ],
-  "homepage": "https://github.com/h3r/cookies#readme"
+  "homepage": "https://github.com/h3r/cookies#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
