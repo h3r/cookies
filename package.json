@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "cookies made with ease",
   "main": "cookies.js",
-  "private": "false",
   "scripts": {
     "test": "echo 1"
   },
