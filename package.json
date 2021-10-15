@@ -1,11 +1,26 @@
 {
   "name": "@h3r/cookies",
-  "version": "0.0.1",
-  "description": "create and retrieve cookies directly from javascript",
+  "version": "0.0.0",
+  "description": "cookies made with ease",
   "main": "cookies.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h3r/cookies.git"
+  },
+  "keywords": [
+    "js",
+    "cookies"
+  ],
   "author": "h3r",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h3r/cookies/issues"
+  },
+  "files": [
+    "cookies.js"
+  ],
+  "homepage": "https://github.com/h3r/cookies#readme"
 }
