@@ -1,0 +1,11 @@
+{
+  "name": "@h3r/cookies",
+  "version": "0.0.1",
+  "description": "create and retrieve cookies directly from javascript",
+  "main": "cookies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "h3r",
+  "license": "ISC"
+}
