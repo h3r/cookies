@@ -1,6 +1,6 @@
 {
   "name": "@h3r/cookies",
-  "version": "0.0.0",
+  "version": "0.0.1-0",
   "description": "cookies made with ease",
   "main": "cookies.js",
   "private": "false",
