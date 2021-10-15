@@ -25,6 +25,7 @@
   ],
   "homepage": "https://github.com/h3r/cookies#readme",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
   }
 }
